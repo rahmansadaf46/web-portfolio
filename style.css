@@ -101,19 +101,21 @@ footer p{
     }
     
     .top-banner{
-        background-size: 180vw;
+        background-size: 200vw;
     }
     .dream-area{
-        background-size: 10vw;
+        background-size: 9vw;
      }
     .experience-area{
         background-size: 10vw;
+        padding-bottom: 100px;
+        margin-top: -150px
     }
     footer p{
         font-size: 2vw;
     }
     section{
-        padding-bottom: 2px;
+        padding-bottom: 30px;
     }
 
 }
