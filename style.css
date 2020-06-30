@@ -76,3 +76,44 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+
+@media screen and (max-width: 600px){
+    p{
+        font-size:3vw;
+    }
+    h1{
+        font-size: 6vw;
+    }
+    h2{
+        font-size: 5vw;
+    }
+    h3{
+        font-size: 4vw;
+    }
+    .single-experience{
+        height: 70%;
+    }
+    .link-button{
+       
+        font-size: 2vw;
+        padding: 2vw;
+        
+    }
+    
+    .top-banner{
+        background-size: 180vw;
+    }
+    .dream-area{
+        background-size: 10vw;
+     }
+    .experience-area{
+        background-size: 10vw;
+    }
+    footer p{
+        font-size: 2vw;
+    }
+    section{
+        padding-bottom: 2px;
+    }
+
+}
